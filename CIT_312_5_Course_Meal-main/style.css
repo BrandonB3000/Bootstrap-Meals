@@ -1,0 +1,26 @@
+body{
+    background-color: #e7d90f;
+}
+
+
+
+#heading{
+    background-color: brown;
+    color: #580b05;
+    font-family: 'Indie Flower';
+}
+
+#card{
+    border: 5px solid #580b05; 
+    border-radius: 5px;
+    align-items: center;
+    background-color: brown;
+    font-family: 'Caveat';
+}
+
+#card img{
+    width: 250px;
+    height: 250px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
